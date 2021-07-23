@@ -3,7 +3,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The code is designed for fringe analysis 
 % by Lisong Yang, 02-02-2016 for fringe dynamic analysis
-
+% JSHi
 %%  PART ONE
 % initiating parameters and variables
 
